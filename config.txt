@@ -1,0 +1,6 @@
+﻿token= Njc2ODg0MDc5Nzc3NDE1MTc4.XkU8jw.B9irDTXAcSsTeOULx_O-kg1UppU
+owner= 665204033543340134
+prefix= 1
+game= AG Test
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
